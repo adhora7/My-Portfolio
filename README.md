@@ -9,10 +9,10 @@ Welcome to my portfolio! Here, I showcase a collection of projects I've worked o
    - **Tools Used**: Arduino, MIT App Inventor, Bluetooth (HC-05), L293D Motor Shield.
    - **Project Repository**: [Mobile Controlled Car Repository](https://github.com/adhora7/Mobile-Controlled-Car)
 
-### 2. **[Voice Controlled Car](https://github.com/adhora7/Voice-Controlled-Car)**
+### 2. **[Voice Controlled Car](https://github.com/adhora7/Voice_Controlled_Car)**
    - **Description**: A **Voice Controlled Car** using **Arduino** and **Bluetooth**. The car is controlled by voice commands sent via a mobile app developed by me using **MIT App Inventor**. The Bluetooth module communicates with the Arduino to control the movement of the car via the **L293D motor shield**. The car can move forward, backward, and turn left or right based on the voice commands.
    - **Tools Used**: Arduino, MIT App Inventor, Bluetooth (HC-05), L293D Motor Shield.
-   - **Project Repository**: [Voice Controlled Car Repository](https://github.com/adhora7/Voice-Controlled-Car)
+   - **Project Repository**: [Voice Controlled Car Repository](https://github.com/adhora7/Voice_Controlled_Car)
 
 
 ### 3. **[Simulation of Level 1 Rocket](https://github.com/adhora7/Simulation-of-level-1-rocket)**
