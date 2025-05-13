@@ -48,7 +48,7 @@ I am an enthusiastic **Engineering Student** with a strong interest in **robotic
 ---
 
 ## Contact:
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile) for more information or collaborations.
+Feel free to reach out to me via [LinkedIn](https://http://www.linkedin.com/in/faria-anowara-adhora) for more information or collaborations.
 
 ---
 
