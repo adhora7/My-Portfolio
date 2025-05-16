@@ -94,7 +94,7 @@ I am a co-author of this research paper presented at the **2024 International Co
 - **DOI**: [10.1109/ICRPSET64863.2024.10955937](https://doi.org/10.1109/ICRPSET64863.2024.10955937)  
 - **Link to Paper on IEEE Xplore**: [View Paper](https://ieeexplore.ieee.org/document/10955937)  
 
-...
+---
 
 
 ## About Me:
