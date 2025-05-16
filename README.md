@@ -41,15 +41,29 @@ Welcome to my portfolio! Here, I showcase a collection of projects I've worked o
    - **Tools Used**: MATLAB, Arduino, Sensors.
    - **Project Repository**: [Rocket Thrust Measurement Repository](https://github.com/adhora7/Rocket_Thrust_Measurement)
 
-### 8. **[Certification](https://github.com/adhora7/Certification)**
-   - **Description**: A repository showcasing the **MATLAB Onramp Certification** I earned, which helped enhance my skills in **data analysis**, **simulation**, and **modeling** with MATLAB. This repository includes the certificate and related resources.
-   - **Tools Used**: MATLAB.
-   - **Project Repository**: [MATLAB Certification Repository](https://github.com/adhora7/Certification)
 
-   ### 9. **[STM32 PCB Design](https://github.com/adhora7/Stm32-PCB-Design)**
+   ### 8. **[STM32 PCB Design](https://github.com/adhora7/Stm32-PCB-Design)**
    - **Description**: This project involves designing a PCB for an STM32 microcontroller. The design includes schematic capture, PCB layout using KiCad, and generation of manufacturing files. It showcases skills in PCB design and embedded system hardware development.
    - **Tools Used**:KiCad, PCB Design.
    - **Project Repository**: [STM32 PCB Design Repository](https://github.com/adhora7/Stm32-PCB-Design)
+
+## Team & Projects Involvement
+
+I am actively involved in prestigious CUET projects, including:
+
+- **Mars Rover Team (Electrical Team Member)**  
+- **StarLap Rocket Project (Avionics Team Member)**  
+
+For detailed documentation and photos, visit the [Team & Projects Involvement folder](./Team%20&%20Project%20Involvement).
+---
+ 
+ 
+## Certifications
+
+### [MATLAB Onramp Certification](https://github.com/adhora7/Certification)  
+- **Description**: A repository showcasing the **MATLAB Onramp Certification** I earned, which helped enhance my skills in **data analysis**, **simulation**, and **modeling** with MATLAB.  
+- **Tools Used**: MATLAB.  
+- **Repository**: [MATLAB Certification Repository](https://github.com/adhora7/Certification)  
 
 ---
 
