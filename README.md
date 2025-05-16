@@ -48,7 +48,7 @@ Welcome to my portfolio! Here, I showcase a collection of projects I've worked o
 
    ### 9. **[STM32 PCB Design](https://github.com/adhora7/Stm32-PCB-Design)**
    - **Description**: This project involves designing a PCB for an STM32 microcontroller. The design includes schematic capture, PCB layout using KiCad, and generation of manufacturing files. It showcases skills in PCB design and embedded system hardware development.
-   - **Tools Used**: STM32 Microcontroller, KiCad, PCB Design.
+   - **Tools Used**:KiCad, PCB Design.
    - **Project Repository**: [STM32 PCB Design Repository](https://github.com/adhora7/Stm32-PCB-Design)
 
 ---
