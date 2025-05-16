@@ -83,6 +83,20 @@ For detailed descriptions, photos, and materials, please see the [Workshop & Tra
 
 ---
 
+
+## Research Publications
+
+### PCF-Based SPR Sensor for Alcohol Detection  
+I am a co-author of this research paper presented at the **2024 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)** held in Rajshahi, Bangladesh. The paper presents the design and optimization of a photonic crystal fiber-based surface plasmon resonance (PCF-SPR) sensor for precise detection of alcoholic beverages using numerical methods.  
+
+- **Published In**: IEEE  
+- **Conference Date**: December 7-8, 2024  
+- **DOI**: [10.1109/ICRPSET64863.2024.10955937](https://doi.org/10.1109/ICRPSET64863.2024.10955937)  
+- **Link to Paper on IEEE Xplore**: [View Paper](https://ieeexplore.ieee.org/document/10955937)  
+
+...
+
+
 ## About Me:
 I am an enthusiastic **Engineering Student** with a strong interest in **robotics**, **simulation**, and **IoT**. Throughout my academic journey, I have worked on a wide range of projects, from **robot control systems** to **rocket simulations** and **wireless energy transfer**. I am passionate about applying my skills to solve real-world problems and looking forward to learning more through hands-on projects and collaborations.
 
