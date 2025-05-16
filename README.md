@@ -69,6 +69,18 @@ For detailed documentation and photos, visit the
 
 ---
 
+## Workshops & Trainings
+
+I have conducted and participated in several workshops and training sessions to enhance my skills and share knowledge:
+
+- **No-Code App Development Workshop**  
+  Conducted a 3-day workshop on no-code app development organized by Andromeda Space & Robotics Research Organization (ASRRO).  
+  [See workshop details and materials here](./Workshop%20&%20Trainings/No-Code-App-Development-Workshop.md)
+
+- **Hands-on Arduino Workshop**  
+  Led a hands-on Arduino workshop to teach basics and practical applications of Arduino microcontrollers.  
+  [See workshop details and materials here](./Workshop%20&%20Trainings/Hands-on-Arduino-Workshop.md)
+
 ## About Me:
 I am an enthusiastic **Engineering Student** with a strong interest in **robotics**, **simulation**, and **IoT**. Throughout my academic journey, I have worked on a wide range of projects, from **robot control systems** to **rocket simulations** and **wireless energy transfer**. I am passionate about applying my skills to solve real-world problems and looking forward to learning more through hands-on projects and collaborations.
 
