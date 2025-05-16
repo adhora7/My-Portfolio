@@ -15,7 +15,7 @@ In this workshop, I taught the basics of no-code platforms, guided participants 
 I led a hands-on workshop teaching Arduino basics, programming, and practical applications to participants. This workshop was designed to provide experiential learning in microcontroller programming and embedded systems.  
 - **Role**: Instructor  
 - **Details & Highlights**: [LinkedIn Post](https://www.linkedin.com/posts/faria-anowara-adhora_thrilled-to-share-that-i-was-part-of-the-activity-7275554028938276865-YQRu)  
-- **Platform**: [CUEt]  
+- **Platform**: [CUET]  
 
 ![Hands-on Arduino Workshop](./arduino_workshop1.jpg)
 ![Hands-on Arduino Workshop](./arduino_workshop2.jpg)
