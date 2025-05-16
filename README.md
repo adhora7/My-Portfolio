@@ -45,6 +45,12 @@ Welcome to my portfolio! Here, I showcase a collection of projects I've worked o
    - **Description**: A repository showcasing the **MATLAB Onramp Certification** I earned, which helped enhance my skills in **data analysis**, **simulation**, and **modeling** with MATLAB. This repository includes the certificate and related resources.
    - **Tools Used**: MATLAB.
    - **Project Repository**: [MATLAB Certification Repository](https://github.com/adhora7/Certification)
+
+   ### 9. **[STM32 PCB Design](https://github.com/adhora7/Stm32-PCB-Design)**
+   - **Description**: This project involves designing a PCB for an STM32 microcontroller. The design includes schematic capture, PCB layout using KiCad, and generation of manufacturing files. It showcases skills in PCB design and embedded system hardware development.
+   - **Tools Used**: STM32 Microcontroller, KiCad, PCB Design.
+   - **Project Repository**: [STM32 PCB Design Repository](https://github.com/adhora7/Stm32-PCB-Design)
+
 ---
 
 ## About Me:
