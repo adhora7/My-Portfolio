@@ -47,6 +47,8 @@ Welcome to my portfolio! Here, I showcase a collection of projects I've worked o
    - **Tools Used**:KiCad, PCB Design.
    - **Project Repository**: [STM32 PCB Design Repository](https://github.com/adhora7/Stm32-PCB-Design)
 
+   ---
+
 ## Team & Projects Involvement
 
 I am actively involved in prestigious CUET projects, including:
@@ -57,6 +59,7 @@ I am actively involved in prestigious CUET projects, including:
 For detailed documentation and photos, visit the 
 
 [Team & Projects Involvement folder](./Team%20&%20Project%20Involvement).
+
 ---
  
  
