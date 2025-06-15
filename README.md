@@ -67,12 +67,12 @@ For detailed documentation and photos, visit the
 
 ### [MATLAB Onramp Certification](https://github.com/adhora7/Certification)  
 - **Description**: A repository showcasing the **MATLAB Onramp Certification** I earned, which helped enhance my skills in **data analysis**, **simulation**, and **modeling** with MATLAB.  
-- **Tools Used**: MATLAB.  
+- **Tools Used**: MATLAB  
 - **Repository**: [MATLAB Certification Repository](https://github.com/adhora7/Certification)  
 
-### [Research Paper Writing Cerification](https://github.com/adhora7/Certification) 
-- **Description**:A course that enriched my academic writing and publication skills.
-- **Repository**: [Research Paper Writing Cerification Repository](https://github.com/adhora7/Certification)
+### [Research Paper Writing Certification](https://github.com/adhora7/Certification)  
+- **Description**: A course that enriched my academic writing and publication skills — including research structure, citation styles, and paper submission processes.  
+- **Repository**: [Research Paper Writing Certification Repository](https://github.com/adhora7/Certification)
 
 ---
 
