@@ -70,6 +70,10 @@ For detailed documentation and photos, visit the
 - **Tools Used**: MATLAB.  
 - **Repository**: [MATLAB Certification Repository](https://github.com/adhora7/Certification)  
 
+### [Research Paper Writing Cerification](https://github.com/adhora7/Certification) 
+- **Description**:A course that enriched my academic writing and publication skills.
+- **Repository**: [Research Paper Writing Cerification Repository](https://github.com/adhora7/Certification)
+
 ---
 
 ## Workshops & Trainings
